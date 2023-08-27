@@ -1,3 +1,3 @@
 My first git repository
 <br>
-My Name is Prabhatranjan Parida
+My Name is Prabhat Parida
